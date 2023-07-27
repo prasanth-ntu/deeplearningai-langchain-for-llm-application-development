@@ -162,3 +162,4 @@ cython_debug/
 
 # Configs
 config.json
+config_personal.json
